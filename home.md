@@ -6,15 +6,17 @@ This is the home page of the teacher dashboard. From this page, you can access y
 
 This is a list of the active classroom's you've created as a teacher. Pick one to access the Progress, Grades, Map, and Classroom Settings views. A classroom is required to add students and control studennt access to the course.
 
-[Classrooms]()
+![Classrooms](./Resources/Classrooms.png)
 
 To create a new classroom, use the "+ New Class" button. Simply name your classroom and pick a course.
 
-[Create Classroom]()
+![Create Classroom](./Resources/CreateClassroom.png)
 
 ## Navbar
 
 Once you've selected a classroom, the top navbar can be used to access different views of a classroom.
+
+![Navbar](./Resources/Navbar.png)
 
 ### Progress
 
@@ -35,6 +37,8 @@ Create, modify, export, and reset passwords for your students in your classroom.
 ## Sidebar
 
 The sidebar can be used to pick an active classroom or create a new classroom.
+
+![Sidebar](./Resources/Sidebar.png)
 
 ### Quick Links
 
