@@ -24,4 +24,4 @@ Then, unlock the next chapter by clicking on the red lock icon or lock the curre
 
 ![LockUnlock](./Resources/LockUnlock.png)
 
-Once you've finished, make sure to click "Done" to submit the changes. Otherwise, the changes will not save.
+Once you've finished, you may click "Done" to exit the unlocker.
