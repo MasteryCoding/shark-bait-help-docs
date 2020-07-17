@@ -6,17 +6,17 @@ This is the home page of the teacher dashboard. From this page, you can access y
 
 This is a list of the active classroom's you've created as a teacher. Pick one to access the Progress, Grades, Map, and Classroom Settings views. A classroom is required to add students and control studennt access to the course.
 
-![Classrooms](./Resources/Classrooms.png)
+![Classrooms.png](https://masterycoding-production.s3.amazonaws.com/1595014462544-Classrooms.png)
 
 To create a new classroom, use the "+ New Class" button. Simply name your classroom and pick a course.
 
-![Create Classroom](./Resources/CreateClassroom.png)
+![CreateClassroom.png](https://masterycoding-production.s3.amazonaws.com/1595014462543-CreateClassroom.png)
 
 ## Navbar
 
 Once you've selected a classroom, the top navbar can be used to access different views of a classroom.
 
-![Navbar](./Resources/Navbar.png)
+![Navbar.png](https://masterycoding-production.s3.amazonaws.com/1595014462664-Navbar.png)
 
 ### Progress
 
@@ -38,7 +38,7 @@ Create, modify, export, and reset passwords for your students in your classroom.
 
 The sidebar can be used to pick an active classroom or create a new classroom.
 
-![Sidebar](./Resources/Sidebar.png)
+![Sidebar.png](https://masterycoding-production.s3.amazonaws.com/1595014462497-Sidebar.png)
 
 ### Quick Links
 
