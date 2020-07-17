@@ -6,7 +6,7 @@ The course map is a quick way to hop around an entire course.
 
 A course is divided in Units, Chapters, and Sections.
 
-![Map](./Resources/Map.png)
+![Map.png](https://masterycoding-production.s3.amazonaws.com/1595014462651-Map.png)
 
 **Units** are the pillars of the course. These group together skills from a broad topic in the discipline the course aims to teach.
 
@@ -18,10 +18,10 @@ A course is divided in Units, Chapters, and Sections.
 
 As a teacher, you can control which chapters students have access to in order to control the pace of the course. To unlock a chapter, click on the "Unlock Chapters" button.
 
-![Unlock Chapters](./Resources/UnlockChapters.png)
+![UnlockChapters.png](https://masterycoding-production.s3.amazonaws.com/1595014462484-UnlockChapters.png)
 
 Then, unlock the next chapter by clicking on the red lock icon or lock the current chapter by clicking on the green unlocked icon.
 
-![LockUnlock](./Resources/LockUnlock.png)
+![LockUnlock.png](https://masterycoding-production.s3.amazonaws.com/1595014462737-LockUnlock.png)
 
 Once you've finished, you may click "Done" to exit the unlocker.
